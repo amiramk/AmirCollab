@@ -1,0 +1,11 @@
+{
+  "name": "samplecsharp",
+  "version": "1.0.0",
+  "description": "Sample C#",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Mubashshir Mohammed A",
+  "license": "ISC"
+}
